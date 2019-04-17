@@ -10,6 +10,8 @@ package gitstuff;
  * @author programador
  */
 public class GitStuff {
+    public void 
+    System.out.println    
 
     /**
      * @param args the command line arguments
