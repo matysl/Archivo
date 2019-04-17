@@ -10,8 +10,8 @@ package gitstuff;
  * @author programador
  */
 public class GitStuff {
-    public void 
-    System.out.println    
+    public void unMetodo()
+    System.out.println("Hello Bitch!);   
 
     /**
      * @param args the command line arguments
